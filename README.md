@@ -15,9 +15,7 @@
 <div align="right">
     <h2 align = "left">Veja meu portifolio clickando no gif a baixo:
     <br>
-    <a href = "https://www.txsp.com.br/">
-        <img src="https://github.com/leotxsp/leotxsp/blob/main/Assets/Portifolio.gif?raw=true"  align="left" alt="Portifolio" width = 50% autoplay loop>
-    </a>
+[![Portfólio](https://github.com/leotxsp/leotxsp/blob/main/Assets/Portifolio.gif?raw=true)](https://www.txsp.com.br/)
   <a href="https://github.com/leotxsp/">
     <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Leotxsp&theme=dark&hide_border=true" />
     <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotxsp&theme=dark&hide_border=true&&layout=compact"/>
