@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leotxsp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="130" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leotxsp&radius=16&theme=github-dark&area=true&order=5&color=FE6807&title_color=FE6807&line=FE6807&point=FE6807&area_color=09080D&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20" height="300" alt="activity-graph graph"  />
 </div>
-
+ 
 ###
 
 <div align="center">
